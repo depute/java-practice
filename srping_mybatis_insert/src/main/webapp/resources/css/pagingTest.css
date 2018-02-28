@@ -1,0 +1,25 @@
+a.bottomNumber{
+	color: blue; 
+	text-decoration: none;
+}
+a.movePage{
+	color: black; 
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	text-decoration: underline;
+}
+td.topGray{
+	border-top: 0.1px solid gray;
+	height: 30px
+}
+td.botGray{
+	border-bottom: 0.1px solid gray;
+	height: 1px
+}
+th.headerGray{
+	border-top: 1.3px solid gray;
+	height: 30px;
+	background-color: #F7F7F7
+}
