@@ -1,4 +1,10 @@
 # java-practice
 
-my first Spring board
+My first Spring Board project
 
+It was very hard.
+
+source schema : copy from Tstory blog => developer who want to rest.
+
+else. do it my self
+comment : using iframe
